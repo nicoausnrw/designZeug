@@ -1,5 +1,32 @@
 # DesignZeug
 
+## Software
+
+### Affinity Designer / Publisher / Photo
+
+Professionelle Grafikdesign-Software mit Fokus auf Vektorgrafiken (Designer), Desktop-Publishing (Publisher) und Bildbearbeitung (Photo). Die kostenlose Version ist nicht verfügbar, aber die Software bietet eine kostengünstige Alternative zu Adobe Creative Cloud.
+
+[Website von Affinity](https://affinity.serif.com/)
+
+### Canva
+
+Online-Grafikdesign-Tool für die Erstellung von Social-Media-Grafiken, Präsentationen, Postern und mehr. Canva bietet eine kostenlose Version mit eingeschränkten Funktionen, aber viele Vorlagen und Designelemente.
+
+[Website von Canva](https://www.canva.com/)
+
+### Figma
+
+Kollaborative Designplattform für die Erstellung von Benutzeroberflächen, Wireframes und Prototypen. Figma bietet eine kostenlose Version mit umfangreichen Funktionen für individuelle Projekte.
+
+[Website von Figma](https://www.figma.com/)
+
+### Penpot
+
+Open-Source-Design- und Prototyping-Plattform. Penpot ermöglicht die Zusammenarbeit an UX/UI-Projekten. Der kostenlose Umfang ist umfassend, ideal für Teams und Projekte mit begrenztem Budget.
+
+[Website von Penpot](https://penpot.app/)
+
+
 ## Material Quellen
 
 ### Schriften
